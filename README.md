@@ -1,4 +1,4 @@
-# Google-Ads-Sales-Analysis
+#Google-Ads-Sales-Analysis
 Power BI dashboard analyzing Google Ads campaign performance and sales ROI.
 \## Project Overview
 This project analyzes Google Ads campaign data to identify which campaigns and audience segments drove sales. The analysis informed budget reallocation and campaign optimization recommendations.
