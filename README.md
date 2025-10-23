@@ -1,6 +1,6 @@
-#Google-Ads-Sales-Analysis
+##Google-Ads-Sales-Analysis
 Power BI dashboard analyzing Google Ads campaign performance and sales ROI.
-\## Project Overview
+## Project Overview
 This project analyzes Google Ads campaign data to identify which campaigns and audience segments drove sales. The analysis informed budget reallocation and campaign optimization recommendations.
 ## Objectives
 - Assess relationship between ad spend and sales conversions.
@@ -26,7 +26,10 @@ This project analyzes Google Ads campaign data to identify which campaigns and a
 - Mobile impressions were high but conversion rate was \*\*25% lower\*\* vs desktop.
 - Reallocating 10% of spend from low-ROAS campaigns to top campaigns projected to increase revenue by \*\*~15%\*\*.
 ## Dashboard Preview
-Google Ads Data Analytics Sales Dashboard
+<img width="889" height="511" alt="google 1" src="https://github.com/user-attachments/assets/a02425b2-8921-4e3e-8a88-ffdf2c104b84" />
+<img width="889" height="492" alt="google 2" src="https://github.com/user-attachments/assets/b1ce5df8-7ece-4491-b6bb-e3852b6c8122" />
+<img width="871" height="504" alt="google 3" src="https://github.com/user-attachments/assets/dc99fef4-b217-4925-ae8b-e3ddac8a4872" />
+
 ## Files included
 - google ads dataanalytics\_sales unclean sample.csv` — sample ad export
 - Google ad data analytics — pdf
